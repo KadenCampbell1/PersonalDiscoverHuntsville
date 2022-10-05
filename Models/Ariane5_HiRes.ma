@@ -1,6 +1,6 @@
 //Maya ASCII 2022 scene
-//Name: Ariane5.ma
-//Last modified: Tue, Oct 04, 2022 09:56:10 PM
+//Name: Ariane5_HiRes.ma
+//Last modified: Tue, Oct 04, 2022 09:56:31 PM
 //Codeset: 1252
 requires maya "2022";
 requires "stereoCamera" "10.0";
@@ -10,7 +10,7 @@ fileInfo "product" "Maya 2022";
 fileInfo "version" "2022";
 fileInfo "cutIdentifier" "202205171752-c25c06f306";
 fileInfo "osv" "Windows 10 Home v2009 (Build: 22621)";
-fileInfo "UUID" "6140EE8F-411F-2992-EB9C-1CB36D88CB0D";
+fileInfo "UUID" "024D6C9E-43AF-065E-FCCB-AFA6F3A80FEA";
 createNode transform -s -n "persp";
 	rename -uid "EEFB09F0-4FAE-125A-878E-43B9B84B7FA9";
 	setAttr ".v" no;
@@ -51757,4 +51757,4 @@ connectAttr "Phase2_BaseShape.iog" ":initialShadingGroup.dsm" -na;
 connectAttr "Phase3_NoseShape.iog" ":initialShadingGroup.dsm" -na;
 connectAttr "Phase3_Nose1Shape.iog" ":initialShadingGroup.dsm" -na;
 connectAttr "groupId11.msg" ":initialShadingGroup.gn" -na;
-// End of Ariane5.ma
+// End of Ariane5_HiRes.ma
