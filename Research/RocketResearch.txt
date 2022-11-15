@@ -1,0 +1,217 @@
+Ariane 5
+
+a European heavy-lift space launch vehicle developed and operated by Arianespace for the European Space Agency (ESA).
+ 
+It is launched from the Centre Spatial Guyanais (CSG) in French Guiana.
+
+The James Webb Space Telescope was launched on an Ariane 5 rocket for NASA.
+
+The Ariane 5 is one of the world's most reliable launch vehicles and was chosen for a combination of reliability (it was the only launch vehicle that met NASA's requirements for launching a mission like Webb) and for the value it brings via our international partnership.
+
+In exchange European scientists are given a fraction of observing time on Webb (roughly 15%).
+
+capable of carry payloads weighing more than 10 metric tons to geostationary transfer orbit.
+
+The launch vehicle had a streak of 82 consecutive successful launches between 9 April 2003 and 12 December 2017.
+
+Ariane 5 was originally intended to launch the Hermes spacecraft, and thus it is rated for human space launches.
+
+Cost per launch	€139–185 million 
+
+Height	46–52 m (151–171 ft)
+
+Diameter	5.4 m (18 ft)
+
+Mass	780 t (? lb)
+
+Stages	2
+
+Total launches	114
+
+Success(es)	109
+
+First flight	
+G: 4 June 1996
+G+: 2 March 2004
+GS: 11 August 2005
+ECA: 11 December 2002
+ES: 9 March 2008
+
+Last flight	
+G: 27 September 2003
+G+: 18 December 2004
+GS: 18 December 2009
+ECA: 7 September 2022
+ES: 25 July 2018
+
+After the main cryogenic stage runs out of fuel, it re-enters the atmosphere for an ocean splashdown.
+
+They each burn for 130 seconds before being dropped into the ocean. The SRBs are usually allowed to sink to the bottom of the ocean, but, like the Space Shuttle Solid Rocket Boosters, they can be recovered with parachutes, and this has occasionally been done for post-flight analysis.
+
+Ariane 5 boosters are not reused.
+
+The second stage is on top of the main stage and below the payload.
+
+The flight assembly includes the Vehicle Equipment Bay, with flight electronics for the entire rocket, and the payload interface and structural support.
+
+
+
+
+
+
+Space Launch System
+
+Model is the Block 1 crew configuration.
+
+an American super heavy-lift launch vehicle that provides the foundation for human exploration beyond Earth’s orbit.
+
+SLS is the only rocket that can send Orion, astronauts, and cargo directly to the Moon on a single mission.
+
+SLS, the world’s most powerful rocket, can carry more payload to deep space than any other vehicle.
+
+The SLS rocket is designed to be evolvable, which makes it possible to fly more types of missions, including human missions to the Moon and Mars and robotic scientific missions to places like the Moon, Mars, Saturn, and Jupiter.
+
+The first SLS vehicle, called Block 1, can send more than 27 metric tons (t) or 59,500 pounds (lbs.) to orbits beyond the Moon.
+
+The Block 1B crew vehicle can send 38 t (83,700 lbs.) to deep space including Orion and its crew.
+
+Block 2, will provide 9.5 million lbs. of thrust and will be the workhorse vehicle for sending cargo to the Moon, Mars, and other deep space destinations.
+
+SLS Block 2 will be designed to lift more than 46 t (101,400 lbs.) to deep space.
+
+Artemis I, the first integrated flight of SLS and Orion, uses the Block 1 configuration.
+
+The first launch, designated Artemis 1, is scheduled for 16 November 2022
+
+Project cost	US$23.011 billion
+
+Cost per launch	Over US$2 billion excluding development (estimate)
+
+Height	Block 1 Crew: 322 ft (98 m)
+
+Diameter	27.6 ft (8.4 m), Core stage
+
+Payload to Low eath orbit: 
+Mass Block 1: 209,000 lb (95 t)
+Block 1B: 231,000 lb (105 t)
+Block 2: 290,000 lb (130 t)
+
+Payload to the Moon: 
+Mass Block 1: > 59,500 lb (27 t)
+Block 1B Crew: 83,700 lb (38 t)
+Block 1B Cargo: 92,500 lb (42 t)
+Block 2 Crew: > 94,700 lb (43 t)
+Block 2 Cargo: > 101,400 lb (46 t)
+
+Stages	2
+
+Launch sites	Kennedy Space Center
+
+Total launches	1 as of Nov 16th 2022
+
+
+
+
+
+Atlas V-541
+
+Atlas V rockets are only used once.
+
+Human rated
+
+The three numbers in the 541 designation signify a payload fairing, or nose cone, that is approximately 5 meters (16.4 feet) in diameter; four solid-rocket boosters fastened alongside the central common core booster; and a one-engine Centaur upper stage.
+
+the first stage (Atlas V rocket) is the common core booster, 106.5 feet (32.46 meters) in length and 12.5 feet (3.81 meters) in diameter. about half of the total height of the vehicle.
+
+First stage thrust of up to about 850,000 pounds (3.8 million newtons) at full throttle.
+
+Stage 2 (Centaur) Fuel and oxidizer and the vehicle's "brains". fires twice, once to insert the vehicle-spacecraft stack into low Earth orbit and then again to accelerate the spacecraft out of Earth orbit and on its way towards Mars.
+
+Stage 2 This engine uses liquid hydrogen and liquid oxygen and can provide up to about 22,300 pounds (99,200 newtons) of thrust.
+
+Height	58.3 m (191 ft) with payload fairing, 52.4 m (172 ft) with Starliner
+
+Diameter	3.81 m (12.5 ft)
+
+Mass	590,000 kg (1,300,000 lb)
+
+Stages	2 (3 with Star 48 upper stage)
+
+Payload to Low earth orbit Mass 8,210–18,850 kg (18,100–41,560 lb)
+
+Payload to Moon Mass 4,750–8,900 kg (10,470–19,620 lb)
+
+Launch sites Cape Canaveral, Vandenberg
+
+Total launches	97
+
+Success(es)	96
+
+First flight	21 August 2002
+
+Last flight	10 November 2022
+
+
+
+
+Delta II
+
+entered service in 1989.
+
+an American expendable launch system (used only once).
+
+flew its final mission ICESat-2 on 15 September 2018
+
+earning the launch vehicle a streak of 100 successful missions in a row
+
+Cost per launch	
+US$51 million in 1987 (7920-10 model)
+US$137 million in 2018 before retirement
+
+Height	38.9 m (128 ft)
+
+Diameter	2.44 m (8 ft 0 in)
+
+Mass	152,000–286,000 kg (335,000–631,000 lb)
+
+Payload to Low earth orbit Mass 2,800–6,140 kg (6,170–13,540 lb)
+
+Payload to Moon Mass 1,140–2,190 kg (2,510–4,830 lb)
+
+Status	Retired
+
+Launch sites Cape Canaveral, Vandenberg Air Force Base
+
+Total launches	155
+
+Success(es)	153
+
+First flight	
+Delta 6000: 14 February 1989 (USA-35)
+Delta 7000: 26 November 1990 (USA-66)
+Delta 7000H: 8 July 2003 (Opportunity rover)
+
+Last flight	
+Delta 6000: 24 July 1992 (Geotail)
+Delta 7000: 15 September 2018 (ICESat-2)
+Delta 7000H: 10 September 2011 (GRAIL)
+
+Were not phased out due to the Challenger Disaster of 1986
+
+The Delta II family used a four-digit system to generate its technical names:
+
+-The first digit was either 6 or 7, denoting the 6000- or 7000-series Delta.
+
+-The second digit indicated the number of boosters. Most Delta II rockets flew with 9 boosters, but some flew with 3 or 4.
+
+-The third digit was always 2, denoting a second stage with an Aerojet AJ10 engine. Only Deltas prior to the 6000-series used a different engine, the TR-201.
+
+-The last digit denoted the third stage. 0 denoted no third stage, 5 indicated a Payload Assist Module (PAM) stage with Star 48B solid motor, and 6 indicated a Star 37FM motor.
+
+-An H following the four digits denoted that the vehicle used the larger Delta III GEM-46 boosters. The Heavy variant could be launched only from Cape Canaveral (as Vandenberg's pad wasn't modified to handle the larger SRBs), and was retired with the closure of that launch site in 2011.[30]
+
+-Numbers and letters following those indicate the type of fairing. -9.5 means that the vehicle had a 9.5 ft (2.9 m) diameter fairing, -10 means a 10 ft (3.0 m) diameter fairing, and -10L indicates a lengthened 10 ft (3.0 m) diameter fairing. In a few rare circumstances, an 8-foot diameter fairing (from older Delta rockets) was flown, and those vehicles had a -8 designation.
+
+The only person on record ever hit by space debris was hit by a piece of a Delta II rocket.
+
+-Lottie Williams was exercising in a park in Tulsa on 22 January 1997 when she was hit in the shoulder by a 15-centimeter (6 in) piece of blackened metallic material. U.S. Space Command confirmed that a used Delta II rocket from the April 1996 launch of the Midcourse Space Experiment had crashed into the atmosphere 30 minutes earlier. The object tapped her on the shoulder and fell off harmlessly onto the ground.
