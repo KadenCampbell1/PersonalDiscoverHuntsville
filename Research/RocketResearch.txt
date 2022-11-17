@@ -217,9 +217,215 @@ The only person on record ever hit by space debris was hit by a piece of a Delta
 -Lottie Williams was exercising in a park in Tulsa on 22 January 1997 when she was hit in the shoulder by a 15-centimeter (6 in) piece of blackened metallic material. U.S. Space Command confirmed that a used Delta II rocket from the April 1996 launch of the Midcourse Space Experiment had crashed into the atmosphere 30 minutes earlier. The object tapped her on the shoulder and fell off harmlessly onto the ground.
 
 
+
+
+
+
 Lunar Module
+
+originally designated the Lunar Excursion Module (LEM), was the lunar lander spacecraft that was flown between lunar orbit and the Moon's surface during the United States' Apollo program. 
+
+carried to lunar orbit by the companion Command Service Module (CSM)
+
+It was the first crewed spacecraft to operate exclusively in the airless vacuum of space, and remains the only crewed vehicle to land anywhere beyond Earth.
+
+Structurally and aerodynamically incapable of flight through Earth's atmosphere
+
+The final three landers were more advanced versions of the original, carried a Lunar Rover Vehicle - nicknamed the Moon Buggy - and enabled longer stays on the surface.
+
+First crewed vehicle to land on the moon.
+
+Apollo 11 launched from Cape Kennedy on July 16, 1969
+
+During the 1969 Apollo 11 mission, Michael Collins remained in lunar orbit while fellow crewmembers Neil Armstrong and Buzz Aldrin descended to the moon's surface in the lunar module.
+
+Armstrong's televised image and heard his voice describe the event as he took "...one small step for a man, one giant leap for mankind" on July 20, 1969.
+
+the Eagle landed in the Sea of Tranquility in Site 2
+
+The crew began descent on the 13th orbit of the moon
+
+Discarded after use
+
+
+Mission    	LM Name   		CSM Name   
+-Apollo 9		Spider 		Gumdrop 
+-Apollo 10  	Snoopy 		Charlie Brown 
+-Apollo 11 	Eagle 		Columbia 
+-Apollo 12 	Intrepid  		Yankee Clipper 
+-Apollo 13  	Aquarius  		Odyssey 
+-Apollo 14  	Antares 		Kitty Hawk
+-Apollo 15 	Falcon		Endeavour
+-Apollo 16 	Orion			Casper
+-Apollo 17		Challenger 	America
+
+crew of two
+
+Country of origin	United States
+
+Launch mass	
+-33,500 lb (15,200 kg) standard
+-36,200 lb (16,400 kg) extended
+
+Design life	75 hours (extended)
+
+Length	23 ft 1 in (7.04 m)
+
+Diameter	13 ft 10 in (4.22 m) without landing gear
+
+Width	31 ft (9.4 m), landing gear deployed
+
+Status	Retired
+
+Built		15
+
+Launched	10
+
+Retired	1972
+
+Failed	0
+
+First launch	January 22, 1968
+
+Last launch	December 7, 1972
+
+
+
+
+
+
 Saturn V
+
+American super heavy-lift launch vehicle for human exploration of the Moon
+
+The rocket was human-rated
+
+flown from 1967 to 1973.
+
+It was used for nine crewed flights to the Moon, and to launch Skylab, the first American space station.
+
+As of 2022, the Saturn V remains the only launch vehicle to carry humans beyond low Earth orbit (LEO).
+
+Project cost	$6.417 billion in 1964–1973 dollars (~$49.9 billion in 2020 dollars)
+
+Cost per launch	$185 million in 1969–1971 dollars ($1.23 billion in 2019 value).
+
+Height	363.0 ft (110.6 m)
+
+Diameter	33.0 ft (10.1 m)
+
+Saturn V weighed 2.8 million kilograms (6.2 million pounds)
+
+Stages	2 (3 for Apollo missions)
+
+Status	Retired
+
+Launch sites	Kennedy Space Center
+
+Total launches	13
+
+Success(es)	12
+
+Partial failure(s)	1 (Apollo 6)
+
+First flight	November 9, 1967
+
+Last flight	May 14, 1973
+
+the Saturn V was designed under the direction of Wernher von Braun
+
+Thirteen were launched from Kennedy Space Center with no loss of crew or payload.
+
+A car that gets 48 kilometers (30 miles) to the gallon could drive around the world around 800 times with the amount of fuel the Saturn V used for a lunar landing mission.
+
+The first two stages fell into the ocean after separation. The third stage either stayed in space or hit the moon.
+
+
+
+
+
 Titan II
+
+The Titan II was an intercontinental ballistic missile but was later adapted as a medium-lift space launch vehicle
+
+Launch sites	Cape Canaveral, Vandenberg Air Force Base
+
+Status	Retired
+
+service	1962 to 1987
+
+Mass	155,000 kg (342,000 lb)
+
+Length	31.394 m (103.00 ft)
+
+Diameter	3.05 m (10.0 ft)
+
+Cost per launch	$3.16 million in 1969
+
+Stages	2
+
+Payload to Low Earth Orbit Mass	3,600 kg (7,900 lb)
+
+Total launches	106 (81 suborbital)
+-ICBM: 81 (suborbital)
+-GLV: 12
+-23G: 13
+
+Success(es)	101 (77 suborbital)
+-ICBM: 77 (suborbital)
+-GLV: 12
+-23G: 12
+
+Failure(s)	5 (4 suborbital)
+-ICBM: 4 (suborbital)
+-23G: 1
+
+First flight	12 March 1962
+
+Last flight	18 October 2003
+
+used to launch each of the two-man crews during the Gemini program
+
+
+
+
+
+
 Atlas LV
+
+a human-rated expendable launch system used as part of the United States Project Mercury to send astronauts into low Earth orbit.
+
+derived from the SM-65D Atlas missile
+
+Country of origin	United States
+
+Height	28.7 metres (94.3 ft)
+
+Diameter	3.0 metres (10.0 ft) width over boost fairing 4.9 metres (16 ft)
+
+Mass	120,000 kilograms (260,000 lb)
+
+Stages	1½
+
+Payload to Low Earth Orbit Mass	1,360 kilograms (3,000 lb)
+
+Status	Retired
+
+Total launches	9
+
+Success(es)	7
+
+Failure(s)	2
+
+First flight	29 July 1960
+
+Last flight	15 May 1963
+
+Atlas's stage-and-a-half configuration was seen as preferable to the two-stage Titan in that all engines were ignited at liftoff, making it easier to test for hardware problems during pre-launch checks.
+
+chemical rockets of this era could not be reliably started So the 1 1/2 stage was designed.
+
+As the rocket rose into the air, fuel was consumed at a fast rate. After a short period of time, the rocket became light enough and the two booster rockets were dropped. By shedding the weight of the two booster engines, the Atlas was now light enough to fly all the way to orbit using only the sustainer engine giving it the 1  1/2 stages
+
 
 
