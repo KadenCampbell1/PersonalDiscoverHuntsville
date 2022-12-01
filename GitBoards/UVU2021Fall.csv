@@ -1,0 +1,259 @@
+Name,Column,Description,Labels,Assignees,Due Date,Milestone
+Week 1 Goals,Weekly Breakdown,"My goals are to:
+- [x] Finish Layout Design drawing
+- [x] Organize scene
+- [x] Set up scene composition
+- [x] Finish Space Station model
+- [x] Add pictures and breakdown of Week 1",Space Environment,,,Modeling & UVs
+Week 1 Accomplishments,Weekly Breakdown,"Images in \Projects\zOutside Repos\zOutside repo (copy me)\Space Environment\Week1
+
+This week I was able to Finish the layout design for the space scene. I was able to organize my scene and files associated with my project. I greyboxed the scene.  I wasn't able to finish modeling the ship this week. I have gotten a fair way through it. All I need to do is make the little ranger and pipe the insides. 
+
+![SpaceEnvironmentRender.png](https://app.gitkraken.com/api/glo/boards/61246c9e62c83900480bfe57/attachments/613af6c479d3ee004b5ec835)
+
+![SpaceEnvironment.png](https://app.gitkraken.com/api/glo/boards/61246c9e62c83900480bfe57/attachments/613af71aca515f00475d9693)
+
+![SpaceShip.png](https://app.gitkraken.com/api/glo/boards/61246c9e62c83900480bfe57/attachments/613af75d79d3ee004b5ec839)
+
+![Ship3.png](https://app.gitkraken.com/api/glo/boards/61246c9e62c83900480bfe57/attachments/613ee22779d3ee004b5f7d81)
+
+![Ship2.png](https://app.gitkraken.com/api/glo/boards/61246c9e62c83900480bfe57/attachments/613ee23d79d3ee004b5f7d88)
+![Ship1.png](https://app.gitkraken.com/api/glo/boards/61246c9e62c83900480bfe57/attachments/613ee23dca515f00475e4bb0)
+
+![SceneGreybox.png](https://app.gitkraken.com/api/glo/boards/61246c9e62c83900480bfe57/attachments/613ee432ca515f00475e4be3)
+",Space Environment,,,Modeling & UVs
+Week 2 Goals,Weekly Breakdown,"My goals are to:
+- [x] Finish modeling Ship
+- [x] UV map Ship",Space Environment,,,Modeling & UVs
+Week 2 Accomplishments,Weekly Breakdown,"I was unable to meet this weeks goals. I am close to completing the modeling and I should be able to finish UVs this week. I hope to start texturing this week. Here's an update on the ship.
+![Ship1.png](https://app.gitkraken.com/api/glo/boards/61246c9e62c83900480bfe57/attachments/614821e62466930048509c38)
+
+![Ship2.png](https://app.gitkraken.com/api/glo/boards/61246c9e62c83900480bfe57/attachments/614821ea2466930048509c39)
+
+![Ship3.png](https://app.gitkraken.com/api/glo/boards/61246c9e62c83900480bfe57/attachments/614821ee2466930048509c3a)
+",Space Environment,,,Modeling & UVs
+Week 3 Goals,Weekly Breakdown,"- [x] Finish modeling
+- [x] finish UVs
+- [x] Begin Texturing",Space Environment,,,Modeling & UVs
+Week 3 Accomplishments,Weekly Breakdown,"I finished modeling the ship and I am close to finishing the UVs. Hopefully once this ship is done I can get back on track for my deadlines. 
+- [x] Finish modeling
+- [x] finish UVs
+- [x] Begin Texturing
+![Screenshot 2021-09-27 220318.png](https://app.gitkraken.com/api/glo/boards/61246c9e62c83900480bfe57/attachments/615294bb1a8506004d24fc9d)
+![Screenshot 2021-09-27 220420.png](https://app.gitkraken.com/api/glo/boards/61246c9e62c83900480bfe57/attachments/615294bb2cd6b7004c4e8581)
+![Screenshot 2021-09-27 220514.png](https://app.gitkraken.com/api/glo/boards/61246c9e62c83900480bfe57/attachments/615294bb1a8506004d24fc9e)
+",Space Environment,,,Modeling & UVs
+Week 4 Goals,Weekly Breakdown,- [x] Finish UVs,Space Environment,,,Modeling & UVs
+Week 4 Accomplishments,Weekly Breakdown,"I am back on track and have fixed my schedule to accomplish my goals.
+The colors represent what shares a texture. Green is the the main ship, Blue is the attachments, and the pipes are red because they are procedurally generated on their own UV plane. I plan to use 3 2048px maps.
+- [x] Finish UVs
+![Ship1.png](https://app.gitkraken.com/api/glo/boards/61246c9e62c83900480bfe57/attachments/615b8ff31a8506004d26fd27)
+![Ship2.png](https://app.gitkraken.com/api/glo/boards/61246c9e62c83900480bfe57/attachments/615b8ff32cd6b7004c5085af)
+![UV1.png](https://app.gitkraken.com/api/glo/boards/61246c9e62c83900480bfe57/attachments/615b8ff22cd6b7004c5085ae)
+![UV2.png](https://app.gitkraken.com/api/glo/boards/61246c9e62c83900480bfe57/attachments/615b8ff31a8506004d26fd26)
+",Space Environment,,,Modeling & UVs
+Week 5 Goals,Weekly Breakdown,"- 
+![21_ 7_maybe_ red.png](https://app.gitkraken.com/api/glo/boards/61246c9e62c83900480bfe57/attachments/616eebbb631c490046b960b2)
+![29_ 10_maybeBlue_ red.png](https://app.gitkraken.com/api/glo/boards/61246c9e62c83900480bfe57/attachments/616eebbb631c490046b960b3)
+![1_ 1_blue.png](https://app.gitkraken.com/api/glo/boards/61246c9e62c83900480bfe57/attachments/616eebbbb2f0670047fbec55)
+",Space Environment,,,"Textures, VFX, Animation"
+Week 6 Goals,Weekly Breakdown,- [x] Animation,Space Environment,,,"Textures, VFX, Animation"
+Week 9 Goals,Weekly Breakdown,"- [x] VFX
+- [x] Lighting
+
+https://youtu.be/ckqxoji5_6k",Space Environment,,,"Textures, VFX, Animation"
+finished,Weekly Breakdown,"https://www.artstation.com/artwork/8wwe4O
+https://youtu.be/ckqxoji5_6k",Space Environment,,,"Textures, VFX, Animation"
+Week 10 Goals,Weekly Breakdown,- [x] begin second environment,Second Environment,,,
+Ninja fluid,To Do,,,,,
+CS classes,To Do,"3310 analysis of algorithms
+3320 numerical software development
+Abronson 3000 math course with optimization",,,,
+houdini hotkeys,To Do,"p key is for parameter window.
+
+control key + 1 is quick mark for 1 and 2 for 2. setting these lets you press 1 or 2 to switch between marks or press ~ (tilda key) to switch back and forth.
+
+alt + E pops out a window for code box",,,,
+Perforce,To Do,KadenC 1234567,,,,
+VEX,To Do,https://www.tokeru.com/cgwiki/index.php?title=JoyOfVex,,,,
+Check out,To Do,"https://www.mayhemmirror.com/the-seed-of-juna
+
+
+",,,,
+material script,To Do,,DGM3670 Scripting (Clayton),,,
+Write cover letter,To Do,"https://www.prospects.ac.uk/careers-advice/cvs-and-cover-letters/cover-letters/apprenticeship-cover-letter
+
+https://www.prospects.ac.uk/careers-advice/cvs-and-cover-letters/cover-letters#what-is-a-cover-letter",,,,
+investigate current environment artist reels as well as what environment artist means for different studios,To Do,,"DGM3650/3620 Anthony, Rodayne",,,
+Concept scene,In Progress,,Second Environment,,,
+Test code,Finished,,DGM3670 Scripting (Clayton),,,
+UI Final,Finished,,DGM3670 Scripting (Clayton),,,
+final,Finished,,CS2420,,,
+Space Environment,Finished,,Space Environment,,,"Textures, VFX, Animation"
+fighter game finish,Finished,"- [x] boss arena
+- [ ] Parry
+- [ ] Fix numbers
+- [ ] animations",DGM360r Unreal (Marty),,,
+Add restart,Finished,"Fix pillars
+Make attacks not spam able",DGM360r Unreal (Marty),,,
+Game Document,Finished,,DGM360r Unreal (Marty),,,
+fix colors on buttons,Finished,"color cop
+convert rgb 256 to 0to1",DGM3670 Scripting (Clayton),,,
+Graphs,Finished,,CS2420,,,
+Design level,Finished,,DGM360r Unreal (Marty),,,
+figure out why video is blurry,Finished,,Space Environment,,,
+fighter game week 4,Finished,"- [x] enemy dodge
+- [ ] enemy parry",DGM360r Unreal (Marty),,,
+Dictionary project,Finished,,"CS2420,CS2420",,,
+Wolverine completion grant,Finished,,,,,
+control script,Finished,"Ask how he determines the radius of the controls
+
+polySphere(obj[1, q=True, r=True)
+
+returns radius
+
+xform(obj[0, q=True, rotation=True, worldSpace=True)
+
+listRelatives(obj[0, children=True, shape=True)
+",DGM3670 Scripting (Clayton),,,
+Add null object as parent for circle controls,Finished,,DGM3670 Scripting (Clayton),,,
+fighter game week 3,Finished,"- [x] enemy movement
+- [x] enemy attack
+- [x] enemy health",DGM360r Unreal (Marty),,,
+Niagara Links,Finished,"https://www.youtube.com/watch?v=GAn1Za1MYW4
+
+https://www.sidefx.com/tutorials/realtime-fx-with-niagara-ue4/
+
+
+Niagara:
+https://www.sidefx.com/tutorials/houdini-to-ue4s-niagara/",,,,
+fighter game week 2,Finished,"- [x] player health
+- [ ] parry
+- [x] lock on
+
+https://www.youtube.com/playlist?list=PLotuPdROw-W6AMG1EGsL59pOCj7ZHJzTJ",DGM360r Unreal (Marty),,,
+Save node before going into a loop to come back to it and do it's right side,Finished,,,,,
+spring classes,Finished,"3571 story development (preproduction)
+3660-001 Advanced rigging CRN: 32221
+3680 anim game project 2
+3641 Environment
+Unreal shader
+Vr essential",,,,
+Trees,Finished,,CS2420,,,
+sequential renamer,Finished,,DGM3670 Scripting (Clayton),,,
+fighter game week 1 submittion,Finished,"- [x] movement
+- [x] attack
+- [x] dodge
+- [x] hud
+https://docs.unrealengine.com/4.27/en-US/Resources/SampleGames/ARPG/",DGM360r Unreal (Marty),,,
+Change size of star and suction so big star little black hole,Finished,,"DGM3650/3620 Anthony, Rodayne",,,
+proposal,Finished,"Expand on how inspiration influence  our game
+specify 3d
+
+genre: fighting
+theme: souls-like
+goal: boss duel
+work objectives
+Dodge
+Parry
+Move
+Attack
+Ai
+weekly schedule
+Player mechanics 2 week
+Ai 2 weeks
+Level 1 week
+Fluff
+",DGM360r Unreal (Marty),,,
+stacks,Finished,,CS2420,,,
+Try black scatter points for ship,Finished,,,,,
+create snowman in python,Finished,,DGM3670 Scripting (Clayton),,,
+Add homing turret,Finished,,DGM360r Unreal (Marty),,,
+"boss level Completed Due Oct. 18th, 2 Concepts due 12th",Finished,"rotating plate with holes and turrets
+
+spinning fans that you have to use jump pads and teleports to evade.
+
+straight away with holes in the ground then moving walls fallow and try to push you off like hands
+
+giant ball that is attached to player movement and player must roll back and forth while giant ball moves forward and backward.",DGM360r Unreal (Marty),,,
+Put garbage out,Finished,,,,,
+break up paragraphs with numbers and sections,Finished,"make fan blades and boss walls slightly transparent
+",DGM360r Unreal (Marty),,,
+Random Generator,Finished,"rand()
+ls -sl","DGM3670 Scripting (Clayton),DGM3670 Scripting (Clayton)",,,
+Week plan,Finished,code on train wed & thurs. Complete bombs at home afterwards on wed. If code is not done using train thurs complete it at home that night maybe using friday if needed. Submit proof of ship on friday. Work on Ship friday after code is done.  then have sat off and work on ship sunday.,,,,
+Linked lists,Finished,"https://www.programiz.com/python-programming/iterator
+
+if problems with gpa email professor otherwise he wants to see how it works",CS2420,,,
+review due Oct 8,Finished,,"DGM3650/3620 Anthony, Rodayne",,,
+checkpoint on 9/21,Finished,https://uvu365.sharepoint.com/sites/Course_dgm_360r_002_2021_fall_full_term-qk3KS7rQrmHg0/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FCourse%5Fdgm%5F360r%5F002%5F2021%5Ffall%5Ffull%5Fterm%2Dqk3KS7rQrmHg0%2FShared%20Documents%2FGeneral%2FRecordings%2FNew%20channel%20meeting%2D20210921%5F162407%2DMeeting%20Recording%2Emp4&parent=%2Fsites%2FCourse%5Fdgm%5F360r%5F002%5F2021%5Ffall%5Ffull%5Fterm%2Dqk3KS7rQrmHg0%2FShared%20Documents%2FGeneral%2FRecordings,DGM360r Unreal (Marty),,,
+fix,Finished,"move camera back
+Make platforms bigger and fast
+make Ice bombs
+Checkpoints
+
+moving walls at end
+moving sandpits
+
+","DGM360r Unreal (Marty),DGM360r Unreal (Marty)",,,
+Calculator,Finished,floatArrayToString();,DGM3670 Scripting (Clayton),,,
+add obj to lfs,Finished,,"DGM3650/3620 Anthony, Rodayne,DGM3650/3620 Anthony, Rodayne",,,
+Space Environment,Finished,,Space Environment,,,Modeling & UVs
+level 4,Finished,"design 1
+Due sunday 11:59
+Wednesday 11:59 (refined form)",DGM360r Unreal (Marty),,,
+forward emails to uvu.edu,Finished,,,,,
+Deal with school emails,Finished,,,,,
+three bomb designs due thurs,Finished,,DGM360r Unreal (Marty),,,
+Make snowy lake stuff on artstation and fix YouTube folder name,Finished,,,,,
+Create level 3,Finished,,DGM360r Unreal (Marty),,,
+sorting,Finished,,CS2420,,,
+3 designs utilizing enemies Using 3 turret behaviors and 2 or 3 bullet behaviors,Finished,,DGM360r Unreal (Marty),,,
+calculator due thurs,Finished,,DGM3670 Scripting (Clayton),,,
+Finish tube lights,Finished,,"DGM3650/3620 Anthony, Rodayne",,,
+add little pipes on front and back for air movement,Finished,,"DGM3650/3620 Anthony, Rodayne",,,
+make lights for landing strip,Finished,,"DGM3650/3620 Anthony, Rodayne",,,
+Make pieces for storage things and make vents moveable,Finished,,"DGM3650/3620 Anthony, Rodayne",,,
+make iris for back end,Finished,"f14a
+https://www.youtube.com/watch?v=2T_lmxORaXQ","DGM3650/3620 Anthony, Rodayne",,,
+Level 2 complete due sunday,Finished,,DGM360r Unreal (Marty),,,
+Project 1,Finished,Change it so if i = 0 check if it is target or not else shrinks the list,CS2420,,,
+three level designs due thursday,Finished,,DGM360r Unreal (Marty),,,
+fill out covid form,Finished,,,,,
+Ask why test_search doesn't work,Finished,,CS2420,,,
+Rolling Stone Golf theme Level 1,Finished,,DGM360r Unreal (Marty),,,
+Arc and tangents make ship sexy,Finished,,"DGM3650/3620 Anthony, Rodayne,DGM3650/3620 Anthony, Rodayne",,,
+add docking bay/hangar,Finished,,"DGM3650/3620 Anthony, Rodayne",,,
+submit Variable model,Finished,,DGM3670 Scripting (Clayton),,,
+Upgrade Unity to 2021.1.16f1,Finished,,,,,
+3 designs for Rolling ball game Due tonight,Finished,,DGM360r Unreal (Marty),,,
+script new model,Finished,,DGM3670 Scripting (Clayton),,,
+submit proposal for individual Project,Finished,"I am going to create 3D environments and use them to create a main dynamic shot for 15 seconds and a 15 second montage of important details from the same scene. I'm thinking about keeping the 15 second increments as separate videos and have 2 videos per environment I create. My goal is to create 2 environments this semester. The first environment I want to do is a space station orbiting a star. The second a rustic forest with a village or temple. I want to do these two environments because the first will show competence in hard surface modeling and VFX, while the second deals with organics and lighting. 
+
+My plan for your class is to create a nice presentation of my process in creating the scene with weekly breakdowns and explanations of my goals for the week and what I had accomplished the week prior. I think this will make a nice addition to the videos for my portfolio.","DGM3620 Anim Apps (Rodayne),DGM3650/3620 Anthony, Rodayne",,,
+build/set up game design,Finished,,DGM360r Unreal (Marty),,,
+set up onedrive,Finished,,"DGM3650/3620 Anthony, Rodayne,DGM360r Unreal (Marty)",,,
+Add environment repo,Finished,,"DGM3650/3620 Anthony, Rodayne",,,
+Change cube to different shapes that bool through the wall.,Finished,,"DGM360r Unreal (Marty),DGM360r Unreal (Marty)",,,
+get wacom pen,Finished,,,,,
+change accounts to uvu.edu,Finished,,,,,
+3 unique game designs,Finished,,DGM360r Unreal (Marty),,,
+concept objects for gremlin story,Finished,,"DGM3650/3620 Anthony, Rodayne",,,
+brainstorm environments for project,Finished,,"DGM3650/3620 Anthony, Rodayne",,,
+model using mel,Finished,,DGM3670 Scripting (Clayton),,,
+Read chapter 1,Finished,,CS2420,,,
+Read assignments,Finished,,CS2420,,,
+add _scripts folder,Finished,,CS2420,,,
+Talk to Rodayne for help with Environmental direction,Finished,,DGM3620 Anim Apps (Rodayne),,,
+Install pytest and pylint,Finished,,CS2420,,,
+Read through Module 1,Finished,,CS2420,,2021-08-25T06:00:00.000Z,
+get unity 4.26.2,Finished,,DGM360r Unreal (Marty),,,
+Download Maya 2022,Finished,,DGM3670 Scripting (Clayton),,,
+DGM3620 Anim Apps (Rodayne) & DGM3650 Anim & Game (Anthony),Class Rotation,,"DGM3650/3620 Anthony, Rodayne,DGM3620 Anim Apps (Rodayne)",,,
+DGM360r Unreal,Class Rotation,,DGM360r Unreal (Marty),,,
+CS2420,Class Rotation,,CS2420,,,
+DGM3670 Scripting,Class Rotation,,DGM3670 Scripting (Clayton),,,
+UE5 Environments,Class Rotation,,Unreal Engine 5,,,
+make neutron star not just sphere and colors,Backlog,,Space Environment,,,
+emphasize paneling on ship,Backlog,,Space Environment,,,
+Buy book,Backlog,https://www.amazon.com/Maya-Python-Games-Film-Reference/dp/0123785782/ref=sr_1_3?dchild=1&keywords=maya+python+for+games+and+film&qid=1629673567&sr=8-3,DGM3670 Scripting (Clayton),,,

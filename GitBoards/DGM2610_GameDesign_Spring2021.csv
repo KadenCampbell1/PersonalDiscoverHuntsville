@@ -1,0 +1,22 @@
+Name,Column,Description,Labels,Assignees,Due Date,Milestone
+comets,Backlog,,"Modeling,FX",,,Sprint 1
+stars,Backlog,,"Lighting,FX",,,Sprint 1
+Arrange UVs,In Progress,,,,,
+light cones,Ready for Approval,,"Modeling,Maya,UVs",,,Sprint 1
+track,Ready for Approval,,"Maya,Modeling,UVs",,,Sprint 1
+UV mapping under Light_Cone_Geo,Ready for Approval,,,,,
+fix track with lattice,Ready for Approval,,,,,
+make wall cylinders bend for light cones,Ready for Approval,,,,,
+duplicate light cones,Ready for Approval,,,,,
+inside base,Ready for Approval,,"Maya,Modeling,UVs",,,Sprint 1
+crystals,Ready for Approval,,"Houdini,Modeling,UVs",,,Sprint 1
+drills,Ready for Approval,,"Modeling,Maya,UVs",,,Sprint 1
+Base with rocks,Ready for Approval,,"Houdini,Maya,Modeling,UVs",,,Sprint 1
+pipes,Ready for Approval,,"Modeling,Maya,UVs",,,Sprint 1
+gate,Ready for Approval,,"Modeling,Maya,UVs",,,Sprint 1
+"asteroids, planet and belt",Ready for Approval,,"Houdini,Modeling,UVs",,,Sprint 1
+Sprint 4 - Lock date for Modeling/UVs/Placeholder Textures/Lighting,Complete,,,,2021-03-07T07:00:00.000Z,Sprint 4
+Sprint 3 - 3rd pass Modeling/UVs,Complete,,,,2021-02-27T07:00:00.000Z,Sprint 3
+Sprint 2 - 2nd pass modeling/UVs,Complete,,,,2021-02-20T07:00:00.000Z,Sprint 2
+Sprint 1 - first pass modeling/UVs,Complete,,,,2021-02-13T07:00:00.000Z,Sprint 1
+Organize Maya file from import,Complete,,Misc.,,,

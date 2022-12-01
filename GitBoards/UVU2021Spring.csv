@@ -1,0 +1,227 @@
+Name,Column,Description,Labels,Assignees,Due Date,Milestone
+lock down greybox for 2/4,Finished,,2610 Game Design,,,
+orient joints,Finished,,2211 Rigging,,,
+do exercise 6.10,Finished,,CS1410 OO,,,
+Ask how to use sandbox,Finished,,CS1410 OO,,,
+Do chapter 6 quiz,Finished,,CS1410 OO,,,
+read chapter 6,Finished,,CS1410 OO,,,
+do final pass on greybox,Finished,"move camera down and move asteroids up.
+change text on layout for asteroid
+add more details on models",2610 Game Design,,,
+do quiz 5,Finished,,CS1410 OO,,,
+rename rig joints,Finished,,2211 Rigging,,,
+begin book recommendation project,Finished,"need: 
+-recommend function
+-sort books by author last name, author first name, book title",CS1410 OO,,,
+Do thumbnails for script,Finished,Side quest: concept characters,2660 Storyboard,,,
+build joint chain for max,Finished,Working on fingers,2211 Rigging,,,
+greybox ctr,Finished,,2610 Game Design,,,
+Rig max in simple FK,Finished,,2211 Rigging,,,
+Complete final layout,Finished,add color circle around numbers. color the layout. add illustrations next to the objects to show what they will look like.,2610 Game Design,,,
+Review script when rodayne sends it,Finished,,2660 Storyboard,,,
+Discuss hands,Finished,,2640 Character Development,,,
+submit hands,Finished,,2640 Character Development,,,
+Begin drawing hands,Finished,,2640 Character Development,,,
+Model hands,Finished,,2640 Character Development,,,
+Sculpt hands,Finished,,2640 Character Development,,,
+Do quiz 4,Finished,,CS1410 OO,,,
+Do exercise 5.1,Finished,,CS1410 OO,,,
+animate IK walk due Thurs,Finished,,2211 Rigging,,,
+create storyboard and script,Finished,"choose 1 min, write the times for each camera cut, write description of cuts, write out script in center alignment, thumbnail sketch each shot. compile in a pdf.",2660 Storyboard,,,
+draft layout of hyper spaceway,Finished,,2610 Game Design,,,
+Do reading 4 & 5,Finished,,CS1410 OO,,,
+Turn in hands week 1,Finished,,2640 Character Development,,,
+Do exercise 4.9,Finished,,CS1410 OO,,,
+Ask for help on 4.9,Finished,,CS1410 OO,,,
+character walk due Tuesday,Finished,,2211 Rigging,,,
+choose last activity thing,Finished,,2640 Character Development,,,
+Set up Gits for classes,Finished,,,,,
+turn in research,Finished,,2610 Game Design,,,
+Set up meeting to check off scene,Finished,Doing hyper spaceway,2610 Game Design,,,
+Get books,Finished,,,,,
+Read through first module,Finished,Finished page 1,2660 Storyboard,,,
+create research for scene,Finished,,2610 Game Design,,,
+Figure out which scene to create,Finished,,2610 Game Design,,,
+See if rodayne requires a book,Finished,,2660 Storyboard,,,
+Set up text book,Finished,,CS1410 OO,,,
+Look through first module,Finished,,2640 Character Development,,,
+Relax and be ready for thursday,Finished,,2211 Rigging,,,
+Turn in FInal,Finished,,2610 Game Design,,,
+final,Finished,,CS1410 OO,,,
+Sprint 11,Finished,"make light cone god rays (Done)
+fix lighting (Done)
+make arrows yellower (First pass)
+fix transparency (Done)",2610 Game Design,,,
+Character design,Finished,,2640 Character Development,,,
+Turn in skinning,Finished,,2211 Rigging,,,
+turn in animatic,Finished,,2660 Storyboard,,,
+quiz 11,Finished,,CS1410 OO,,,
+look at review,Finished,,2640 Character Development,,,
+Add rocks and debris to scene,Finished,Could add asteroids,2640 Character Development,,,
+Create animatic for both parts,Finished,"finish drawings (Done)
+add horizon line and tops to cylinders throughout (Done)
+fix background to be size of images (Done)
+Add color behind each drawing. (Done)
+Add cape to kuu (Done)
+add box for transparency to be the right size (Export with borders on) (Done)
+export images (Done)
+time scenes
+import audio
+clean up lines
+
+
+make window at frame 96 fade out to reveal green smoke and inside. (Done)
+",2660 Storyboard,,,
+skin max,Finished,,2211 Rigging,,2021-04-27T06:00:00.000Z,
+Sprint 10,Finished,"make light cone god rays (first pass)
+fix lighting
+
+fix lights for cones (first pass)
+arrows are too wide (First pass)
+fix seams on planet (first pass)
+make rocks not so real and smoother (Done)
+fix sparks (Done)
+make rocks bluer (Done)
+make white on rocks more transparent (Done)
+Add another nebula in the center (Done)
+Add more stars (Done)
+make planet spin (Done)",2610 Game Design,,,
+project 7,Finished,Working on b. Trying to figure out why download_size is being emptied each process.,CS1410 OO,,,
+Add horizon line in bg,Finished,,2660 Storyboard,,,
+add height map to rocks that is rnd dirt,Finished,,2610 Game Design,,,
+Sprint 9,Finished,"Animations Work on Rocks
+arrows (Done)
+lightning from drills (done)
+sparks from track wall (first pass)",2610 Game Design,,,
+find out time,Finished,,2610 Game Design,,,
+exercise 11.5,Finished,,CS1410 OO,,,
+exercise 11.2,Finished,,CS1410 OO,,,
+send marty new video,Finished,,2610 Game Design,,,
+add 5th toe,Finished,,2640 Character Development,,,
+review character review,Finished,Make them coming out of broken door with hand on door frame and lights could flash exposing him,2640 Character Development,,,
+project 6,Finished,Seeing if start_pulse and end_pulse are right values and if pulse area is right,CS1410 OO,,,
+Sprint 8,Finished,"Animations (need Offset)
+arrows
+lightning and clouds from drills
+sparks from track wall (first pass)
+Make rocks bluer (Done)
+Make gate pop from rocks somehow Add light pointing at Gate that only affects gate (Done)
+Change can part of drill to green (Done)
+drill blue moved (Done)
+raise grooves in track (Done)
+Make grooves in rocks bigger (Done)
+Make metal less shiny (Done)
+Make metal lighter (Done)",2610 Game Design,,2021-04-10T06:00:00.000Z,
+rig for body,Finished,Just needs reference imported and turned in,2211 Rigging,,2021-04-08T06:00:00.000Z,
+take test 2,Finished,,CS1410 OO,,,
+look through animatics on canvas,Finished,,2660 Storyboard,,,
+write critique for animatic,Finished,,2660 Storyboard,,,
+Sprint 7,Finished,,2610 Game Design,,,
+Make Rig for lamp,Finished,"make sure Controls have deleted history, lock\hide visibility",2211 Rigging,,2021-04-01T06:00:00.000Z,
+create animatic,Finished,"zoom in on stand off shots. 
+""animate"" fall and skuttling away on S22
+Add the Are you ok on S21
+",2660 Storyboard,,,
+Project 5,Finished,"Trying to implement classification Hierarchy. Working on compute pay. the salary, commission and hourly values don't work. currently using stand in values",CS1410 OO,,,
+sprint 6,Finished,,2610 Game Design,,,
+add height map to blue crystals,Finished,,2610 Game Design,,,
+Try photoshoping AO for track,Finished,,2610 Game Design,,,
+Upgrade lenovo or call to make sure,Finished,,,,,
+Fix in maya,Finished,"faceting:
+track wall triangle piece
+gate attachments
+the noticeable rocks
+
+move rocks from touching planet",2610 Game Design,,,
+Storyboard second script,Finished,,2660 Storyboard,,2021-03-25T06:00:00.000Z,
+project 5-1,Finished,,CS1410 OO,,,
+rig IK for lamp,Finished,Just needs turned in,2211 Rigging,,2021-03-23T06:00:00.000Z,
+Sprint 5 Textures first pass,Finished,,2610 Game Design,,2021-03-20T06:00:00.000Z,
+Arrange UVs,Finished,,2610 Game Design,,,
+project 4,Finished,Just needs turning in,CS1410 OO,,,
+review 3/16,Finished,he said something right at the end before taking question from joey,2211 Rigging,,,
+test generic body to be a character,Finished,,2640 Character Development,,,
+Put body together,Finished,,2640 Character Development,,,
+animate walk on own rig,Finished,Just needs submitting,2211 Rigging,,2021-03-16T06:00:00.000Z,
+draw characters,Finished,,2640 Character Development,,,
+look at thumbnails with new info,Finished,,2660 Storyboard,,,
+Exercise 8.5,Finished,,CS1410 OO,,,
+Quiz 8,Finished,,CS1410 OO,,,
+clothe drawing,Finished,,2660 Storyboard,,2021-03-09T07:00:00.000Z,
+Sprint 4,Finished,,2610 Game Design,,2021-03-07T07:00:00.000Z,
+Model Arms,Finished,,2640 Character Development,,,
+Sculpt Arms,Finished,,2640 Character Development,,,
+And legs,Finished,,2640 Character Development,,2021-03-05T07:00:00.000Z,
+Draw Arms,Finished,,2640 Character Development,,,
+Discuss arms and legs,Finished,,2640 Character Development,,,
+Exercise 8.1,Finished,,CS1410 OO,,,
+review 3/2 class,Finished,,CS1410 OO,,,
+Animate walk with notes from partner rig,Finished,"must submit animation file, video capture of animation, and notes on rig.",2211 Rigging,,,
+Take test Mon - Wed,Finished,,CS1410 OO,,,
+review for test,Finished,"read through krita notes
+read through sketchbook notes
+review the quizzes
+read through the vocab in each chapter
+look at pictures and headers in each chapter
+hopefully watch review video",CS1410 OO,,,
+Submit rig,Finished,,2211 Rigging,,,
+rethink thumbnails and use incredibles talk on tues to make storyboard,Finished,"Make sure there is a harmony to movement and character position. 
+try to rethink 180 degree camera move to see kuu's face
+redo tunnel scene to pan not truck",2660 Storyboard,,,
+Sprint 3,Finished,,2610 Game Design,,2021-02-27T07:00:00.000Z,
+Don't apologize for what is not done. just talk of the stuff that did get done,Finished,I focused on this area last week and this week I focused on this area. This is what I got done. show textle density. check the base to make sure it is the right width and height.,2610 Game Design,,,
+Turn in sprint 3,Finished,,2610 Game Design,,,
+constrain geo and script the toggle thing,Finished,,2211 Rigging,,,
+Fix geo mess,Finished,,2211 Rigging,,,
+Submit Second block thumbnails,Finished,,2660 Storyboard,,2021-02-25T07:00:00.000Z,
+"Add main joint, transform control, and cog control",Finished,,2211 Rigging,,,
+Sprint 2,Finished,,2610 Game Design,,2021-02-20T07:00:00.000Z,
+constrain controls,Finished,,2211 Rigging,,,
+model torso,Finished,,2640 Character Development,,,
+sculpt torso,Finished,,2640 Character Development,,,
+draw torso,Finished,,2640 Character Development,,,
+critique storyboard with pro,Finished,,2660 Storyboard,,,
+Animatic for 2/16,Finished,,2660 Storyboard,,2021-02-16T07:00:00.000Z,
+model eyes,Finished,,2640 Character Development,,,
+sculpt eyes,Finished,,2640 Character Development,,,
+draw eyes,Finished,,2640 Character Development,,,
+Exercise 9.2,Finished,,CS1410 OO,,,
+add controls,Finished,add controls to all joints. Only worry about shaping the right side.,2211 Rigging,,2021-02-16T07:00:00.000Z,
+Sprint 1,Finished,,2610 Game Design,,,
+do ch 9 quiz,Finished,,CS1410 OO,,,
+rewatch 2/11,Finished,,2211 Rigging,,,
+Project 2: Human pyramid,Finished,discussed on 2/2/21,CS1410 OO,,2021-02-11T07:00:00.000Z,
+Ask if the output window can just be copy/pasted into a txt,Finished,"Yes, can copy paste.",CS1410 OO,,,
+reorient joints,Finished,,2211 Rigging,,,
+exercise 9.1,Finished,,CS1410 OO,,2021-02-09T07:00:00.000Z,
+organize maya file from FBX,Finished,,2610 Game Design,,,
+Set up boards,Finished,,2610 Game Design,,,
+Model heads,Finished,,2640 Character Development,,,
+Sculpt heads,Finished,,2640 Character Development,,,
+draw using skull technique,Finished,,2640 Character Development,,,
+Draw heads,Finished,,2640 Character Development,,,
+reorient arms so y points forward,Finished,,2211 Rigging,,,
+leg needs y backward,Finished,,2211 Rigging,,,
+30 second storyboard using treasure planet,Finished,"background one layer.
+characters different layer. 
+each prop and character on its own layer. (maybe each one. choose from situation)
+keep it foreground, mid, and background
+
+need to reposition waist on front view",2660 Storyboard,,,
+DGM2640,Class Rotation,,2640 Character Development,,,
+DGM2211,Class Rotation,,2211 Rigging,,,
+DGM2660 (Storyboard),Class Rotation,,2660 Storyboard,,,
+CS1410,Class Rotation,,CS1410 OO,,,
+DGM2610,Class Rotation,,2610 Game Design,,,
+GTFO Fixes,BackLog,"have less wet so there are places that are not slimy so he doesn't look like glass.
+give the sweat a green tint.",2640 Character Development,,,
+Things I would add,BackLog,"blur effect
+lighting
+characters on model
+more movement instead of key frames",2660 Storyboard,,,
+Examine code for project 3,BackLog,,CS1410 OO,,,
+snape fixes,BackLog,"mouth is too high, nose is too flat, nose/mouth wrinkle is not straight, more dimple.
+
+Anthony: add eyeballs, lips are tighter than his, nose is too wide at the nostrils and too narrow on the front",2640 Character Development,,,
+do reading,BackLog,,2640 Character Development,,,
+look at links on canvas,BackLog,https://www.unrealengine.com/en-US/paragon,2211 Rigging,,,
