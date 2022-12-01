@@ -1,0 +1,9 @@
+launch button model on repo (cover, switch&lights, everything else)
+Hailey animates the rockets
+implement blueprint mode
+podium working
+text box integrating rocket info
+scene setup and culling material applied
+powerpoint
+render vfx
+peyton materials and lunar vfx
