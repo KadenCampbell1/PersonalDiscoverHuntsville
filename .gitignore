@@ -62,3 +62,9 @@ crashlytics-build.properties
 Textures/
 
 Models/Exports/HaileyFiles/SaturnV/
+
+VFX/render/StandardSmoke/
+
+VFX/render/StandardFire/
+
+VFX/render/smokestream01/
