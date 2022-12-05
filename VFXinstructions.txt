@@ -1,0 +1,3 @@
+VFX images set to sprite, full rect mesh type, 1024 size
+Standard fire uses From Grey Scale alpha source
+Standard smoke uses Input Texture Alpha as alpha source
